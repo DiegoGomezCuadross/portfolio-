@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;600;700&family=Source+Sans+3:wght@400;600&display=swap");
+
+:root {
+  --font-primary: "Poppins", Tahoma, sans-serif;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 2rem;
+  font-family: var(--font-primary);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-primary);
+}
+/* 
+Poppins
+Thin 100
+ExtraLight 200
+Regular 400
+SemiBold 600
+Bold 700 
+*/
